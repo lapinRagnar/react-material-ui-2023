@@ -1,5 +1,6 @@
 
 import './App.css'
+import MuiTypography from './components/MuiTypography'
 
 function App() {
 
@@ -7,7 +8,7 @@ function App() {
   return (
     <div>
       
-      salut
+      <MuiTypography />
  
     </div>
   )
