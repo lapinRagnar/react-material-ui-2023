@@ -1,5 +1,6 @@
 
 import './App.css'
+import MuiButton from './components/MuiButton'
 
 function App() {
 
@@ -7,7 +8,7 @@ function App() {
   return (
     <div>
       
-      salut
+      <MuiButton />
  
     </div>
   )
